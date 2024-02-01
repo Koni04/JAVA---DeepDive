@@ -1,0 +1,1 @@
+Java Generics enables types classes or interfaces to be parameter when defining a classes, interfaces and methods.

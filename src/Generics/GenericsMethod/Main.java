@@ -1,4 +1,4 @@
-package GenericsMethod;
+package Generics.GenericsMethod;
 
 public class Main {
     public static void main(String[] args) {

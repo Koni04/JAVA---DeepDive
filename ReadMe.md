@@ -1,1 +1,1 @@
-Java Generics enables types classes or interfaces to be parameter when defining a classes, interfaces and methods.
+I'm diving into Java, aiming to understand this powerful and widely used programming language.

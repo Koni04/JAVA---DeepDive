@@ -1,6 +1,5 @@
-package BoundedTypes;
+package Generics.BoundedTypes;
 
-import GenericsClass.MyGenericClass;
 
 public class Main {
     public static void main(String[]args) {

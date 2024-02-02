@@ -1,4 +1,4 @@
-package BoundedTypes;
+package Generics.BoundedTypes;
 
 public class MyGenericsClass <Thing extends Number, Thing2> {
     Thing x;

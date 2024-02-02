@@ -1,4 +1,4 @@
-package GenericsClass;
+package Generics.GenericsClass;
 
 public class MyGenericClass <Thing, Thing2>{
     Thing x;
